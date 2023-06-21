@@ -44,6 +44,7 @@ nav ul li a:hover {
 
 @media (max-width: 1280px) {
   .logo img {
+    width: 256px;
     float: none;
     padding-left: 0;
     display:block;
@@ -53,9 +54,8 @@ nav ul li a:hover {
   }
   nav ul li {
     display: block;
-    font-size: 20px;
     text-align: center;
-    line-height: 48px;
+    line-height: 28px;
   }
   nav ul {
     /*
