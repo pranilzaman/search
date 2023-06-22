@@ -9,6 +9,35 @@
   opacity: 50%;
 }
 
+.adv1 {
+  color: #d93025;
+  font-size: 20px;
+  margin: 25px 35px;
+}
+
+.line {
+  border-bottom: 1px solid #ebebeb;
+}
+
+.h2-adv {
+  font-size: 16px;
+  color: #333;
+}
+
+.div-adv {
+  margin: 25px 35px;
+}
+
+.row-input {
+  display: flex;
+  flex-direction: row;
+}
+
+.left {
+  width: 200px;
+}
+
+
 nav ul {
   float: right;
   padding-top: 45px;
@@ -35,10 +64,6 @@ nav ul li a:visited {
 nav ul li a:hover {
   text-decoration: none;
   color: red;
-}
-
-p {
-  text-align: center;
 }
 
 .search {
