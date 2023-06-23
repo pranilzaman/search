@@ -28,15 +28,43 @@
   margin: 25px 35px;
 }
 
+.p-adv {
+  font-size: 13px;
+}
+
 .row-input {
   display: flex;
   flex-direction: row;
+  align-items: center;
+  margin-top: 16px;
 }
 
 .left {
   width: 200px;
 }
 
+.right {
+  width: 385px;
+}
+
+.btn-div {
+  display: flex;
+  justify-content: flex-end;
+  width: 585px;
+}
+
+.btn-advanced {
+  margin-top: 20px;
+  padding: 0 12px;
+  box-shadow: none;
+  background-color: #4d90fe;
+  border: 1px solid #3079ed;
+  color: #fff;
+  font-size: 11px;
+  font-weight: bold;
+  text-align: center;
+  height: 27px;
+}
 
 nav ul {
   float: right;
